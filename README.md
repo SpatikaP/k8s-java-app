@@ -7,11 +7,21 @@ This repository contains a basic Java Maven HTTP server application that runs on
 
 The purpose of this project is to build and run the application locally and inside a Docker container.
 
+---
+
 Ensure the following tools are installed:
 
 - Java 17 or higher  
 - Maven  
 - Docker  
+
+Verify installations:
+
+```bash
+java -version
+mvn -version
+docker --version
+````
 
 ---
 
