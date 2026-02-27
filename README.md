@@ -1,14 +1,15 @@
 ````md
 # Java Maven Application – Local and Docker Setup
-
+```
 This repository contains a basic Java Maven HTTP server application that runs on port 8080.
 
 The purpose of this project is to build and run the application locally and inside a Docker container.
+```
 
 ---
 
 ## Prerequisites
-
+```
 Ensure the following tools are installed:
 
 - Java 17 or higher  
