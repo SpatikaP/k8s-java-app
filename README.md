@@ -1,6 +1,3 @@
-Your formatting broke because you mixed **triple backticks inside triple backticks**.
-Use this **clean corrected README.md** — copy paste fully.
-
 ````md
 # Java Maven Application – Local and Docker Setup
 
@@ -8,23 +5,11 @@ This repository contains a basic Java Maven HTTP server application that runs on
 
 The purpose of this project is to build and run the application locally and inside a Docker container.
 
----
-
-## Prerequisites
-
 Ensure the following tools are installed:
-
 - Java 17 or higher  
 - Maven  
 - Docker  
 
-Verify installations:
-
-```bash
-java -version
-mvn -version
-docker --version
-````
 
 ---
 
